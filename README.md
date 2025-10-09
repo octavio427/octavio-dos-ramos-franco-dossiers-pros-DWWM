@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 Projet réalisé dans le cadre de la formation DWWM à La Plateforme.
 
-Candidate : Dos Ramos Franco Octavio
+Candidat : Octavio Dos Ramos Franco
 
 
 octavio-dos-ramos-franco-dossiers-pros-DWWM
