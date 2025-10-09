@@ -1,5 +1,5 @@
 Pour voir le dossier sur le Drive.google.com
-📄 [octavio-dos-ramos-franco-dossier-projet (PDF)](https://drive.google.com/drive/folders/1DUO6sOKIQiXe2LL5uQlfvyWPBszpV9L5?usp=drive_link)
+📄 [octavio-dos-ramos-franco-dossier-projet (PDF)](https://drive.google.com/drive/folders/1DUO6sOKIQiXe2LL5uQlfvyWPBszpV9L5?usp=sharing)
 ____________________________________________________________________________________________________________________________
 
 📂 Dossiers professionnels DWWM
@@ -14,7 +14,7 @@ Résumé du projet
 
 Dossier Professionnel (DP)
 
-Dossier du projet (application Portfolio) [Suivre lien :](https://drive.google.com/drive/folders/1DUO6sOKIQiXe2LL5uQlfvyWPBszpV9L5?usp=drive_link)
+Dossier du projet (application Portfolio) [Suivre lien :](https://drive.google.com/drive/folders/1DUO6sOKIQiXe2LL5uQlfvyWPBszpV9L5?usp=sharing)
 
 ____________________________________________________________________________________________________________________________
 
