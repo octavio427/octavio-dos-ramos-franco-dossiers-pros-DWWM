@@ -1,24 +1,22 @@
 Pour voir le dossier sur le Drive.google.com
 📄 [octavio-dos-ramos-franco-dossier-projet (PDF)](https://drive.google.com/drive/folders/1DUO6sOKIQiXe2LL5uQlfvyWPBszpV9L5?usp=drive_link)
-______________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
 
-Dossiers professionnels DWWM
+📂 Dossiers professionnels DWWM
 
 Ce dépôt regroupe l’ensemble des documents constituant mon dossier professionnel pour le Titre Professionnel Développeur Web et Web Mobile (DWWM).
 
-______________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
 
 📂 Contenu
 
-Dossier Professionnel (DP)
-
 Résumé du projet
 
-Dossier du projet (application Portfolio) 
+Dossier Professionnel (DP)
 
-Suivre lien: https://drive.google.com/drive/folders/1DUO6sOKIQiXe2LL5uQlfvyWPBszpV9L5?usp=drive_link
+Dossier du projet (application Portfolio) [Suivre lien :](https://drive.google.com/drive/folders/1DUO6sOKIQiXe2LL5uQlfvyWPBszpV9L5?usp=drive_link)
 
-______________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
 
 🧑‍💻 Présentation
 
